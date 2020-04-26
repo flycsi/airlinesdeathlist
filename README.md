@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+## Welcome to Airlines Death List 2020
 
-You can use the [editor on GitHub](https://github.com/flycsi/airlinesdeathlist/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Rank | Name | Country | Type | Fleet | Status
+---- | ---- | ------- | ---- | ----- | ------
+1 |	Flybe |	United Kingdom | Regional | 63 | Dead (03/20)
+2 |	Trans States Airlines |	USA |	Regional |	45 |	Dead (03/20)
+3 |	Compass Airlines |	USA |	Regional |	56 |	Dead (03/20)
+4 |	South African Airways |	South Africa |	Legacy |	45 |	Dead (04/20)
+5 |	Virgin Australia |	Australia |	Legacy |	98 |	Dead (04/20)
+6 |	Alitalia |	Italy |	Legacy |	93 |	In coma since a few years
+7 |	Norwegian |	Norway |	LH LCC |	145 |	Multiple subsidiaries died
+8 |	Corsair International |	France |	Legacy |	4	747 phased out. Losses.
+9 |	Thai Airways |	Thailand |	Legacy |	80 |	Losses for a few years in a row
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/flycsi/airlinesdeathlist/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
