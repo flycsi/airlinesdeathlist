@@ -9,6 +9,6 @@ Rank | Name | Country | Type | Fleet | Status
 5 |	Virgin Australia |	Australia |	Legacy |	98 |	Dead (04/20)
 6 |	Alitalia |	Italy |	Legacy |	93 |	In coma since a few years
 7 |	Norwegian |	Norway |	LH LCC |	145 |	Multiple subsidiaries died
-8 |	Corsair International |	France |	Legacy |	4	747 phased out. Losses.
+8 |	Corsair International |	France |	Legacy |	4 |	747 phased out. Losses.
 9 |	Thai Airways |	Thailand |	Legacy |	80 |	Losses for a few years in a row
 
